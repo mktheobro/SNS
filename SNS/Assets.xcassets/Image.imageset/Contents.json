@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "kiwifruit.png",
+      "filename" : "Baby1x.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "images.jpeg",
+      "filename" : "Baby2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "fruit_peach_illust_273.png",
+      "filename" : "Baby3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
